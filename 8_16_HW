@@ -1,0 +1,5 @@
+var twoTruths = { 
+first : ["I am from New Hampshire", true],
+second: ["I'm named after a superhero", true],
+third: ["My brother has a son", false]  
+}
